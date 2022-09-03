@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Alim</h1>
 <h3 align="center">A passionate Software Engineer ,Digital Transformation Manager</h3>
 
-- 👯 I’m looking to collaborate on **digital project with python and flutter**
+- 👯 I’m looking to collaborate on **digital project with python **
 
 - 📫 How to reach me **i.alim0229@gmail.com**
 
