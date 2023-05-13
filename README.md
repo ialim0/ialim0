@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alim</h1>
-<h3 align="center">A passionate Software Engineer ,Digital Transformation Manager</h3>
+<h3 align="center">A passionate Software Engineer </h3>
 
 - 👯 I’m looking to collaborate on **software engineering project that can make better life  for people  **
 
