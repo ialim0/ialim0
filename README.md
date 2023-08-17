@@ -43,5 +43,5 @@
 <h3 align="left">Recent GitHub Activity:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&layout=compact&langs_count=6&theme=dark" alt="Wakatime Stats" />
+  <img src="https://github-readme-stats-sigma-five.app/api/wakatime?username=your-wakatime-username&layout=compact&langs_count=6&theme=dark" alt="Wakatime Stats" />
 </p>
