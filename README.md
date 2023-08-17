@@ -32,8 +32,8 @@
 <h3 align="left">GitHub Statistics:</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/github/followers/your-github-username?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/your-github-username?style=social" alt="Stars" />
+  <img src="https://img.shields.io/github/followers/ialim0?style=social" alt="Followers" />
+  <img src="https://img.shields.io/github/stars/ialim0?style=social" alt="Stars" />
 </p>
 
 <p align="center">
