@@ -1,12 +1,4 @@
 <h1 align="center">Hi 👋, I'm Alim</h1>
-<h3 align="center">A passionate Software Engineer </h3>
-
-- 👯 I’m looking to collaborate on **software engineering project that can make better life  for people  **
-
-- 📫 How to reach me **i.alim0229@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<h1 align="center">Hi 👋, I'm Alim</h1>
 <h3 align="center">A passionate Software Engineer</h3>
 
 <p align="center">
@@ -46,4 +38,10 @@
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
+</p>
+
+<h3 align="left">Recent GitHub Activity:</h3>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&layout=compact&langs_count=6&theme=dark" alt="Wakatime Stats" />
 </p>
