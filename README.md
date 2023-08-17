@@ -40,8 +40,8 @@
   <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=your-github-username&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
 </p>
 
-<h3 align="left">Recent GitHub Activity:</h3>
+<h3 align="left">GitHub Contributions:</h3>
 
 <p align="center">
-  <img src="https://github-readme-stats-sigma-five.app/api/wakatime?username=your-wakatime-username&layout=compact&langs_count=6&theme=dark" alt="Wakatime Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ialim0&theme=dark" alt="GitHub Streak" />
 </p>
