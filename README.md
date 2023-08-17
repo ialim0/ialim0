@@ -5,7 +5,7 @@
   <a href="https://www.linkedin.com/in/ialim" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://twitter.com/your-twitter-handle" target="_blank">
+  <a href="https://twitter.com/ialim01" target="_blank">
     <img src="https://img.shields.io/badge/-Twitter-blue?style=flat&logo=twitter&logoColor=white" alt="Twitter" />
   </a>
   <a href="mailto:i.alim0229@gmail.com">
