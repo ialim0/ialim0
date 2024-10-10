@@ -29,19 +29,3 @@
   📫 How to reach me: <a href="mailto:i.alim0229@gmail.com">i.alim0229@gmail.com</a>
 </p>
 
-<h3 align="left">GitHub Statistics:</h3>
-
-<p align="center">
-  <img src="https://img.shields.io/github/followers/ialim0?style=social" alt="Followers" />
-  <img src="https://img.shields.io/github/stars/ialim0?style=social" alt="Stars" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=ialim0&show_icons=true&count_private=true&theme=dark" alt="GitHub Stats" />
-</p>
-
-<h3 align="left">GitHub Contributions:</h3>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=ialim0&theme=dark" alt="GitHub Streak" />
-</p>
