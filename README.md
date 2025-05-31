@@ -1,50 +1,32 @@
 <h1 align="center">Hi 👋, I'm Alim</h1>
-<h3 align="center">Software Engineer | AI & Trust Systems | Building with Purpose</h3>
+<h3 align="center">Software Engineer | AI & Trust Systems</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ialim" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-ialim-blue?style=flat&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-ialim-0077B5?style=flat&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://twitter.com/ialim01" target="_blank">
     <img src="https://img.shields.io/badge/Twitter-@ialim01-1DA1F2?style=flat&logo=twitter&logoColor=white" />
   </a>
   <a href="mailto:i.alim0229@gmail.com">
-    <img src="https://img.shields.io/badge/Email-i.alim0229%40gmail.com-green?style=flat" />
+    <img src="https://img.shields.io/badge/Email-Contact-green?style=flat&logo=gmail&logoColor=white" />
   </a>
 </p>
 
 ---
 
-### 👋 About Me
+I build AI systems focused on trust, safety, and content authenticity. My work spans ML/NLP applications, platform integrity, and tools that make advanced technology more accessible.
 
-I'm a software engineer with a focus on AI, machine learning, and platform integrity. I enjoy building systems that are technically solid, user-conscious, and socially meaningful.
+### Recent Projects
+- **DeepTrust01** — Media authenticity verification system
+- **News Intelligence Engine** — NLP pipeline processing 300+ articles daily
+- **WhatsApp Scheduler** — Conversational booking automation
 
-I’m particularly interested in:
-- Applied ML & NLP  
-- Trust, safety, and content authenticity  
-- Tools that make advanced tech more accessible  
+### Technical Focus
+- Applied machine learning and natural language processing
+- Trust & safety systems and content moderation
+- Full-stack development with emphasis on scalable, ethical solutions
 
-I care about shipping clean, ethical, and scalable products.
+I enjoy collaborating on meaningful problems in AI and platform integrity.
 
----
-
-### 🔍 What I’m Building
-
-- **DeepTrust01** – A tool to verify the authenticity of AI-generated media  
-- **News Intelligence Engine** – NLP-based system processing 300+ news articles per day  
-- **WhatsApp Scheduler Bot** – Flexible, conversational booking flow inspired by Calendly  
-
----
-
-### 🤝 Collaboration & Connections
-
-I enjoy collaborating with thoughtful teams solving hard problems in AI, trust, or social impact.
-
-If you're exploring projects or opportunities that align with this mindset, I'm happy to connect.
-
-📫 Reach me anytime: <a href="mailto:i.alim0229@gmail.com">i.alim0229@gmail.com</a>  
-🔗 Or drop a message on [LinkedIn](https://www.linkedin.com/in/ialim)
-
----
-
-_Thanks for visiting — always open to meaningful conversations._
+**Connect:** [LinkedIn](https://www.linkedin.com/in/ialim) | [Email](mailto:i.alim0229@gmail.com)
