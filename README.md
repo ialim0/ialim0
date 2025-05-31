@@ -18,9 +18,9 @@
 I build AI systems focused on trust, safety, and content authenticity. My work spans ML/NLP applications, platform integrity, and tools that make advanced technology more accessible.
 
 ### Recent Projects
-- **DeepTrust01** — Media authenticity verification system
-- **News Intelligence Engine** — NLP pipeline processing 300+ articles daily
-- **WhatsApp Scheduler** — Conversational booking automation
+- **CVBABA** — AI-powered multilingual career assistant generating ATS-optimized résumés from natural language input | [Demo](https://youtu.be/qBWWaCel7dI)
+- **DeepTrust01** — Multimodal AI system detecting deepfakes and AI-generated content across text, audio, and video
+- **Environmental News Monitor** — NLP pipeline analyzing 300+ French articles daily for environmental impact reporting
 
 ### Technical Focus
 - Applied machine learning and natural language processing
