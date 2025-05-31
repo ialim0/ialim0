@@ -15,7 +15,7 @@
 
 ---
 
-I build AI systems focused on trust, safety, and content authenticity. My work spans ML/NLP applications, platform integrity, and tools that make advanced technology more accessible.
+I'm passionate about building AI systems that create meaningful impact, focusing on trust, safety, and content authenticity. My work spans ML/NLP applications, platform integrity, and tools that democratize access to advanced technology.
 
 ### Recent Projects
 - **CVBABA** — AI-powered multilingual career assistant generating ATS-optimized résumés from natural language input | [Demo](https://youtu.be/qBWWaCel7dI)
@@ -27,6 +27,6 @@ I build AI systems focused on trust, safety, and content authenticity. My work s
 - Trust & safety systems and content moderation
 - Full-stack development with emphasis on scalable, ethical solutions
 
-I enjoy collaborating on meaningful problems in AI and platform integrity.
+I'm driven by solving meaningful problems in AI and platform integrity, particularly those that protect and empower underserved communities.
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/ialim) | [Email](mailto:i.alim0229@gmail.com)
