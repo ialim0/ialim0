@@ -17,13 +17,6 @@
   👯 I’m looking to collaborate on software engineering projects that can make life better for people.
 </p>
 
-<p align="center">
-  🌱 I'm currently learning new technologies and improving my coding skills.
-</p>
-
-<p align="center">
-  💬 Ask me about software development, coding challenges, and tech discussions.
-</p>
 
 <p align="center">
   📫 How to reach me: <a href="mailto:i.alim0229@gmail.com">i.alim0229@gmail.com</a>
