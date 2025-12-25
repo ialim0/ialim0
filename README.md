@@ -15,18 +15,11 @@
 
 ---
 
-I'm passionate about building AI systems that create meaningful impact, focusing on trust, safety, and content authenticity. My work spans ML/NLP applications, platform integrity, and tools that democratize access to advanced technology.
-
-### Recent Projects
-- **CVBABA** — AI-powered multilingual career assistant generating ATS-optimized résumés from natural language input | [Demo](https://youtu.be/qBWWaCel7dI)
-- **DeepTrust01** — Multimodal AI system detecting deepfakes and AI-generated content across text, audio, and video
-- **Environmental News Monitor** — NLP pipeline analyzing 300+ French articles daily for environmental impact reporting
+My passion? Creating technology that works for people, not the other way around. I'm driven by solving meaningful problems in AI and platform integrity, particularly those that protect and empower underserved communities.
 
 ### Technical Focus
 - Applied machine learning and natural language processing
 - Trust & safety systems and content moderation
 - Full-stack development with emphasis on scalable, ethical solutions
-
-I'm driven by solving meaningful problems in AI and platform integrity, particularly those that protect and empower underserved communities.
 
 **Connect:** [LinkedIn](https://www.linkedin.com/in/ialim) | [Email](mailto:i.alim0229@gmail.com)
