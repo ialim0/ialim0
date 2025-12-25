@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Alim</h1>
-<h3 align="center">Software Engineer | AI & Trust Systems</h3>
+<h3 align="center">AI/ML Software Engineer</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/ialim" target="_blank">
