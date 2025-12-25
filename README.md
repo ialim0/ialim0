@@ -22,4 +22,3 @@ My passion? Creating technology that works for people, not the other way around.
 - Trust & safety systems and content moderation
 - Full-stack development with emphasis on scalable, ethical solutions
 
-**Connect:** [LinkedIn](https://www.linkedin.com/in/ialim) | [Email](mailto:i.alim0229@gmail.com)
