@@ -17,8 +17,4 @@
 
 My passion? Creating technology that works for people, not the other way around. I'm driven by solving meaningful problems in AI and platform integrity, particularly those that protect and empower underserved communities.
 
-### Technical Focus
-- Applied machine learning and natural language processing
-- Trust & safety systems and content moderation
-- Full-stack development with emphasis on scalable, ethical solutions
 
