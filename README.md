@@ -63,8 +63,7 @@ I am especially interested in difficult problems where success requires auditabl
 
 - **Machine learning:** NLP, named-entity recognition, ensemble methods, model evaluation, and data analysis
 
-## PhD direction
+## Research direction
 
-I am preparing for PhD opportunities focused on rigorous evaluation of language and multimodal models, mathematical reasoning, and multilingual NLP.
 
-I welcome conversations with researchers working on model evaluation, computational reasoning, multimodal AI, trustworthy AI, and African-language NLP.
+I welcome conversations with researchers working on model evaluation, computational reasoning, multimodal AI, biomedical,  trustworthy AI, and African-language NLP.
