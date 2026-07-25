@@ -66,4 +66,4 @@ I am especially interested in difficult problems where success requires auditabl
 ## Research direction
 
 
-I welcome conversations with researchers working on model evaluation, computational reasoning, multimodal AI, biomedical,  trustworthy AI, and African-language NLP.
+I welcome conversations with researchers working on model evaluation, computational reasoning, multimodal AI, biomedical coding agents, bioengineering, trustworthy AI.
