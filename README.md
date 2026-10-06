@@ -186,8 +186,7 @@ I am particularly interested in environments where **research, engineering, and 
 - 🏆 **AIMS Scientific Innovation Hackathon — 1,000,000 XOF Prize, Dec 2025**  
   Project: **open-vidlib**
 
-- 🏆 **Mastercard Foundation-supported Entrepreneurship Award — $5,000, 2024**  
-  Project: **open-cvbaba** · selected among **1,000+ applicants across Senegal**
+
 
 - 🎓 **Benin Government International Scholarship — ESMT Dakar**
 
